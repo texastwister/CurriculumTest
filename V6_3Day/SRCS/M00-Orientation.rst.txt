@@ -1,0 +1,89 @@
+.. This markup format is known as  "Restructured Text" and can be easily rendered into HTML, PDF, or other formats.  Google it for more info.
+
+
+Orientation
+================================================================================
+
+
+
+
+Course Objective
+========================
+
+
+* Plan, design, implement, and operate AlienVault® Unified Security Management™  (USM™) 
+* Accelerate your ability to work with the USM platform
+* Learn how to protect your organization and build an understanding of how to detect and respond to threats
+* Ensure that the system is operating properly and effectively
+* Enable you to successfully maintain AlienVault USM
+
+Target Audience
+=====================
+
+* Security engineers                                
+* Security analysts and operators                     
+* Current AlienVault USM and OSSIM users               
+* IT managers/professionals and system administrators  
+* Professionals from the security management industry 
+
+
+.. |OneInchSpacer| image:: ../GlobalAssets/1pxl.png
+    :height: 1in
+
+.. |MegaphoneGuy| image:: ../GlobalAssets/Megaphone_clipart.png
+    :width: 2.25in
+    :align: bottom
+  
+
+.. image:: ../GlobalAssets/Megaphone_clipart.png
+    :width: 2.25in
+    :align: right
+
+Requirements
+===================
+
+* Basic TCP/IP networking knowledge and skills including IP addressing, DNS, switching, routing
+* Basic familiarity with IT security concepts and associated skills, including threats, vulnerabilities, risk management and security devices/applications
+* Basic Linux skills, including the use of the command line interface for file and user management, and text editing (vi/vim, nano)
+
+
+Installation
+=======================
+
+Just to demonstrate literal code-blocks::
+
+
+    $ sudo apt-get remove fonts-inconsolata
+    Reading package lists... Done
+    Building dependency tree       
+    Reading state information... Done
+    The following packages were automatically installed and are no longer required:
+      liblsmash1 libvncclient0 libx265-59
+    Use 'apt-get autoremove' to remove them.
+    The following packages will be REMOVED:
+      fonts-inconsolata
+    0 upgraded, 0 newly installed, 1 to remove and 31 not upgraded.
+    After this operation, 139 kB disk space will be freed.
+    Do you want to continue? [Y/n] y
+    (Reading database ... 246301 files and directories currently installed.)
+    Removing fonts-inconsolata (001.010-5) ...
+    Processing triggers for fontconfig (2.11.0-0ubuntu4.1) ...
+
+
+Table-Test
+===================
+
+.. list-table:: Test Table
+    :widths: 50 50
+    
+    * - | R1C1 Bullet List
+        | 
+        | - B1
+        | - B2
+        |
+      - | R1C2 Image
+        |
+        | |MegaphoneGuy|
+        
+Did that work?
+

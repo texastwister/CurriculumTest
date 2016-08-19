@@ -1,0 +1,10 @@
+
+
+.. |--| unicode:: U+2013 .. en dash
+.. |---| unicode:: U+2014 .. em dash
+.. |copy| unicode:: U+0xA9 .. copyright sign
+.. |tm| unicode:: U+2122 .. Trademark sign
+.. |chk| unicode:: U+2717 .. Chkmark wingding
+.. |phi| unicode:: U+0278 .. Greek "Phi"
+.. |R| unicode:: U+00AE .. Registered TM sign
+

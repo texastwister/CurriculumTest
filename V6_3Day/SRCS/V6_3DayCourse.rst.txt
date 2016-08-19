@@ -1,0 +1,18 @@
+================================================================================
+AlienVault® Unified Security Management™ (USM™) for Security Engineers
+================================================================================
+
+.. include:: ../GlobalAssets/default_styling_include.txt
+
+.. footer::
+
+  +---------------------------------+-----------------------------------------------------------+----------------------+
+  | .. class:: leftft               | .. class:: centerft                                       | .. class:: centerft  |
+  |                                 |                                                           |                      |
+  |    V5.2 rev B                   |   Copyright© 2016 AlienVault. All rights reserved.        |     ###Page###       |
+  +---------------------------------+-----------------------------------------------------------+----------------------+
+
+.. include:: M00-Orientation.rst.txt
+
+
+
