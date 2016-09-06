@@ -20,18 +20,19 @@ Course Objective
 Target Audience
 =====================
 
+========================================================    =====================
 * Security engineers                                
-* Security analysts and operators                     
+* Security analysts and operators                           
 * Current AlienVault USM and OSSIM users               
 * IT managers/professionals and system administrators  
-* Professionals from the security management industry 
-
+* Professionals from the security management industry        |MegaphoneGuy|
+========================================================    =====================
 
 .. |OneInchSpacer| image:: ../GlobalAssets/1pxl.png
     :height: 1in
 
 .. |MegaphoneGuy| image:: ../GlobalAssets/Megaphone_clipart.png
-    :width: 2.25in
+    :width: 3.5in
     :align: bottom
   
 
