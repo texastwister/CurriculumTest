@@ -258,6 +258,15 @@
 
     bullet-list-item:
       parent: bodytext
+      fontName: stdFont
+      fontSize: 18
+      leading: 18
+      leftIndent: 0
+      rightIndent: 0
+      firstLineIndent: 0
+      alignment: TA_LEFT
+      spaceBefore: 12
+      spaceAfter: 1
 
     item-list:
       parent: bodytext
@@ -480,7 +489,7 @@
       commands: []
              [VALIGN, [ 0, 0 ], [ -1, -1 ], TOP ]
              [INNERGRID, [ 0, 0 ], [ 0, 0 ], 0, transparent ]
-             [ROWBACKGROUNDS, [0, 0], [-1, -1], [transparent,#F0F8FF]]
+             [ROWBACKGROUNDS, [0, 0], [-1, -1], [transparent,transparent]]
              [BOX, [ 0, 0 ], [ 0, 0 ], 0, transparent ]
 
     table-title:
